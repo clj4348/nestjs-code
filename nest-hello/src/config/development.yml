@@ -1,0 +1,7 @@
+db:
+  type: mysql
+  host: 8.134.197.179
+  username: admin
+  port: 37126
+  password: '@clj123'
+  database: nest_demo_dev
